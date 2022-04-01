@@ -1,5 +1,5 @@
 https://www.caelum.com.br/apostila-csharp-orientacao-objetos/encapsulamento-e-modificadores-de-acesso
 
-https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/learn/lecture/11540800#overview
+https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/learn/lecture/12682853#overview
 
 https://www.youtube.com/watch?v=TXKkntEvTyc&list=PLfvOpw8k80Wreysmw8fonLCBw8kiiYjIU&index=11
