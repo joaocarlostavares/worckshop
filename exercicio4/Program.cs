@@ -21,11 +21,9 @@ namespace Exercicio2
             y.B = Convert.ToDouble(Console.ReadLine());
             y.C = Convert.ToDouble(Console.ReadLine());
 
-            double p = Convert.ToDouble((x.A + x.B + x.C) / 2);
-            double areax = Math.Sqrt(p * (p- x.A) * (p - x.B) * (p - x.C));
+            double areax = x.Area();
 
-            p = Convert.ToDouble((y.A + y.B + y.C) / 2);
-            double areay = Math.Sqrt(p * (p- y.A) * (p - y.B) * (p - y.C));
+            double areay = y.Area();
 
             Console.WriteLine("O valor da área do triângulo x é: {0}",areax);
             Console.WriteLine("O valor da área do triângulo y é: {0}",areay);

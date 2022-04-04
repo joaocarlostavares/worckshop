@@ -32,11 +32,6 @@ namespace Exercicio1
             Saldo  = 6100.00; 
             Titular= "Felipe";
         }
-        ~Conta()
-        {
-            Console.WriteLine("o titular está sendo deletado pelo descontrutor");
-        }
         
-
     }
 }
