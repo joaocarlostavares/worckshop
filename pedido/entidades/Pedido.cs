@@ -5,7 +5,7 @@ namespace pedido.entidades
 {
     public class Pedido
     {
-         public DateTime Data { get; set; }
+        public DateTime Data { get; set; }
         public Pedidostatus Status { get; set; }
         public Cliente Cliente { get; set; }
         public List<ItemPedido> Itens { get; set; } = new List<ItemPedido>();
@@ -30,7 +30,26 @@ namespace pedido.entidades
         {
             Itens.Remove(item);
         }
+        
+        public void Total()
+        {
+            double sum = 0.0;
+            foreach (ItemPedido item in Itens) {
+                sum += item.subtotal();
+            }
+            Console.WriteLine("o total do pedido foi: " +sum);
+        }
 
-        public 
+        public void Mostrar()
+        {
+            Console.WriteLine("SUMARIO DO PEDIDO:");
+            Console.WriteLine("Data Pedido: "+ Data.ToString("dd/MM/yyyy HH:mm:ss"));
+            Console.WriteLine("Status do pedido: " +  Status);
+            Console.WriteLine("Cliente: " + Cliente.Nome + "  ("+Cliente.DataNasc + ") - " + Cliente.Email);
+            foreach(ItemPedido item in Itens)
+            {
+                System.Console.WriteLine(item);
+            }
+        }
     }
 }

@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Joao Carlos\\.nuget\\packages\\": {}
+    "C:\\Users\\joao2\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao Carlos\\Documents\\exercicios_apostila\\pedido\\pedido.csproj",
+      "projectUniqueName": "C:\\Users\\joao2\\Documents\\git\\worckshop\\pedido\\pedido.csproj",
       "projectName": "pedido",
-      "projectPath": "C:\\Users\\Joao Carlos\\Documents\\exercicios_apostila\\pedido\\pedido.csproj",
-      "packagesPath": "C:\\Users\\Joao Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao Carlos\\Documents\\exercicios_apostila\\pedido\\obj\\",
+      "projectPath": "C:\\Users\\joao2\\Documents\\git\\worckshop\\pedido\\pedido.csproj",
+      "packagesPath": "C:\\Users\\joao2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joao2\\Documents\\git\\worckshop\\pedido\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Joao Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joao2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

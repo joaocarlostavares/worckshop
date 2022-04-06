@@ -11,13 +11,13 @@ namespace pedido.entidades
 
         public string Email { get; set; }
 
-        public string DataNasc { get; set; }
+        public DateTime DataNasc { get; set; }
 
         public Cliente()
         {
         }
 
-         public Cliente(string nome, string email, string dataNasc) 
+         public Cliente(string nome, string email, DateTime dataNasc) 
         {
             this.Nome = nome;
             this.Email = email;
