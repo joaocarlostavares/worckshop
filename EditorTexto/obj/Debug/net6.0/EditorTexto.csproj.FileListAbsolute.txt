@@ -1,0 +1,15 @@
+C:\Users\Joao Carlos\Documents\EditorTexto\bin\Debug\net6.0\EditorTexto.exe
+C:\Users\Joao Carlos\Documents\EditorTexto\bin\Debug\net6.0\EditorTexto.deps.json
+C:\Users\Joao Carlos\Documents\EditorTexto\bin\Debug\net6.0\EditorTexto.runtimeconfig.json
+C:\Users\Joao Carlos\Documents\EditorTexto\bin\Debug\net6.0\EditorTexto.dll
+C:\Users\Joao Carlos\Documents\EditorTexto\bin\Debug\net6.0\ref\EditorTexto.dll
+C:\Users\Joao Carlos\Documents\EditorTexto\bin\Debug\net6.0\EditorTexto.pdb
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.AssemblyReference.cache
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfo.cs
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.dll
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\ref\EditorTexto.dll
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.pdb
+C:\Users\Joao Carlos\Documents\EditorTexto\obj\Debug\net6.0\EditorTexto.genruntimeconfig.cache
