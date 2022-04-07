@@ -1,0 +1,15 @@
+C:\Users\joao2\Documents\git\worckshop\heranca\bin\Debug\net6.0\heranca.exe
+C:\Users\joao2\Documents\git\worckshop\heranca\bin\Debug\net6.0\heranca.deps.json
+C:\Users\joao2\Documents\git\worckshop\heranca\bin\Debug\net6.0\heranca.runtimeconfig.json
+C:\Users\joao2\Documents\git\worckshop\heranca\bin\Debug\net6.0\heranca.dll
+C:\Users\joao2\Documents\git\worckshop\heranca\bin\Debug\net6.0\heranca.pdb
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.csproj.AssemblyReference.cache
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.AssemblyInfoInputs.cache
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.AssemblyInfo.cs
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.csproj.CoreCompileInputs.cache
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.dll
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\refint\heranca.dll
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.pdb
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\heranca.genruntimeconfig.cache
+C:\Users\joao2\Documents\git\worckshop\heranca\obj\Debug\net6.0\ref\heranca.dll
