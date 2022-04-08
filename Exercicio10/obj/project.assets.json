@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\Exercicio9.csproj",
-      "projectName": "Exercicio9",
-      "projectPath": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\Exercicio9.csproj",
+      "projectUniqueName": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio10\\Exercicio10.csproj",
+      "projectName": "Exercicio10",
+      "projectPath": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio10\\Exercicio10.csproj",
       "packagesPath": "C:\\Users\\Joao Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\obj\\",
+      "outputPath": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
