@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joao2\\Documents\\estagio\\c#\\Exercicio9\\Exercicio9.csproj": {}
+    "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\Exercicio9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joao2\\Documents\\estagio\\c#\\Exercicio9\\Exercicio9.csproj": {
+    "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\Exercicio9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joao2\\Documents\\estagio\\c#\\Exercicio9\\Exercicio9.csproj",
+        "projectUniqueName": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\Exercicio9.csproj",
         "projectName": "Exercicio9",
-        "projectPath": "C:\\Users\\joao2\\Documents\\estagio\\c#\\Exercicio9\\Exercicio9.csproj",
-        "packagesPath": "C:\\Users\\joao2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joao2\\Documents\\estagio\\c#\\Exercicio9\\obj\\",
+        "projectPath": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\Exercicio9.csproj",
+        "packagesPath": "C:\\Users\\Joao Carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joao Carlos\\Documents\\git\\workshop\\Exercicio9\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\joao2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Joao Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
